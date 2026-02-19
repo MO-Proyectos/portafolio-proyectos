@@ -24,11 +24,6 @@ Script/herramienta para **ordenar y dar formato** a archivos de una ingeniería 
 
 📁 Carpeta: `formato-ingenieria-detalle/`
 
----
-
-### 4) Proyecto “HA”
-(Descripción corta del objetivo: qué resuelve y para qué lo usaste.)
-📁 Carpeta: `ha/`
 
 ## Cómo usar (rápido)
 
